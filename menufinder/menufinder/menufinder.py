@@ -2,7 +2,7 @@ from pip._vendor import requests
 import json as jsonhelper
 import re
 #insert your google maps api key here
-googlemapskey = 'key=AIzaSyBpTLDTGsWw-WJky-vYqwR_10cAHWUi0Ew'
+googlemapskey = 'key=YOUR_KEY_HERE'
 googlemapsapistart = 'https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
 #the google place details api: https://developers.google.com/places/web-service/details
 googleplacedetails = 'https://maps.googleapis.com/maps/api/place/details/json?'
